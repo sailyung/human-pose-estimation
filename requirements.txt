@@ -1,0 +1,10 @@
+EasyDict
+opencv-python
+Cython
+scipy
+pandas
+pyyaml
+json_tricks
+scikit-image
+tensorboardX
+torchvision
