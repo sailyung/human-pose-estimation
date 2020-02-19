@@ -5,8 +5,8 @@ The reproduced paper [*Simple and Lightwight Human Pose Estimation and Tracking*
 
 ## Main Results
 ### Results on COCO val2017 with detector having human AP of 56.4 on COCO val2017 dataset
-|  表头   | 表头  |
-|  ----  | ----  |
+|   Arch | with_GCB | AP    | Ap .5 | AP .75 | AP (M) | AP (L) | AR    | AR .5 | AR .75 | AR (M) | AR (L)  |
+|  ----  | ----  | ----  | ---- | ---- | ----  | ---- | ---- | ---- | ---- | ---- | ---- |
 | 单元格  | 单元格 |
 | 单元格  | 单元格 |
 
