@@ -1,7 +1,7 @@
 # Simple and Lightwight Human Pose Estimation
 
 ## Introduction
-The reimplemented paper [*Simple and Lightwight Human Pose Estimation*](http://arxiv.org/abs/1911.10346).On COCO keypoints valid dataset, if with_gcb module  achieves **66.5 of mAP**, else **64.4 of mAp** </br>
+This repo is the reimplementation of paper: [*Simple and Lightwight Human Pose Estimation*](http://arxiv.org/abs/1911.10346).On COCO keypoints valid dataset, if with_gcb module  achieves **66.5 of mAP**, else **64.4 of mAp** </br>
 
 ## Main Results
 ### Results on COCO val2017 dataset
